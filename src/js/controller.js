@@ -153,6 +153,7 @@ const init = function () {
   paginationView.addHandlerClick(controlPagination);
   addRecipeView.addHandlerUpload(controlAddRecipe);
   newFeature()
+  console.log('vaca');
 }
 
 init();
